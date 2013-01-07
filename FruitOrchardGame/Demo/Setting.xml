@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Settings>
+  <Setting ConfidenceValue="0.6" PictureSize="100" Language="en-US" CreateMaxTime="3" CreateMinTime="1" MaxDownSpeed="2" MinDownSpeed="1" SuccessSound="Success.mp3" FailSound="Fail.mp3" />
+</Settings>
+
+
+

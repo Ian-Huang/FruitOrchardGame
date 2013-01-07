@@ -1,0 +1,36 @@
+1.透過Kinect語音辨識，當說出圖片名稱後，消除圖片
+2.圖片3~6秒生成一張  (OK)
+3.計分功能(念正確名稱後，消除圖片記一次分數)
+
+4.圖片起始位置，X座標隨機生成
+X座標 = (0 ~ actualWidth-PictureSize)
+Y座標 = (-PictureSize)
+
+5.圖片自動往下掉(受一變數控制 current Speed=1~3)
+6.隨機生成圖片(不同圖片代表不同名稱)
+
+--------------------
+2012/10/05新增
+(建立完整的遊戲架構 : start menu -> start game -> 統計總分 -> start menu)
+(for 小孩子 , 誇張)
+
+1.錯誤(黑化) 和 正確(煙火)的特效
+
+2.影像碰撞物件
+
+3.中文
+
+4.計時計分
+
+apple       蘋果
+banana      香蕉
+grape       葡萄
+lemon       檸檬
+mango       芒果
+orange      橘子
+Strawberry  草莓
+Cherry      櫻桃
+
+
+Size = 100
+MaxSpeed = 

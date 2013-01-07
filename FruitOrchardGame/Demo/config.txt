@@ -1,0 +1,9 @@
+confidenceValue = 0.6
+pictureSize = 100
+language = en-US
+createMaxTime = 6
+createMinTime = 4
+maxDownSpeed = 3
+minDownSpeed = 1
+SuccessSound = Success.mp3
+FailSound = Fail.mp3
